@@ -1,0 +1,7 @@
+
+.idea/inspectionProfiles/Project_Default.xml
+*.iml
+*.xml
+UAT-Space-Data-Graph/data/data.csv
+data/data.csv
+UAT-Space-Data-Graph/__pycache__/Data-Graph.cpython-36.pyc
